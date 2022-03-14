@@ -1,5 +1,9 @@
 /raw/*
+# exception to the rule
+!raw/.gitkeep 
 
 /exports/*
+# exception to the rule
+!exports/.gitkeep 
 
 /poll-tracking.ipynb
