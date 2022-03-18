@@ -5,5 +5,5 @@ About me: I'm an Associate Producer for CBC News, working currently in the Digit
 
 You can find many of my best visualizations on [my portfolio](www.dextermcmillan.com), which I designed and built myself using Vue.js.
 
-Naming convention for notebooks follows this pattern: *\[Date (YYYYMMDD) of creation\] \[SLUG/KEYWORD\]*
+Naming convention for notebooks follows this pattern: **\[Date (YYYYMMDD) of creation\] \[SLUG/KEYWORD\]**
 
