@@ -2,7 +2,5 @@
 # exception to the rule
 !exports/.gitkeep 
 
-/poll-tracking.ipynb
-
-/archive
 raw/RAW-2021-CBC-IPVDATA.csv
+notebooks/20211001-IPV.ipynb
