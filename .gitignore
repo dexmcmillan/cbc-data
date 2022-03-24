@@ -2,5 +2,4 @@
 # exception to the rule
 !exports/.gitkeep 
 
-raw/RAW-2021-CBC-IPVDATA.csv
-notebooks/20211001-IPV.ipynb
+/notebooks-unpublished/*
